@@ -12,4 +12,4 @@ Meu nome é Raissa Karpinski
 fagundes.raissa@escola.pr.gov.br 
 
 
-![animation](https://github.com/Lylucyy/Lylucyy/assets/133783569/6b6797cf-8564-4587-9ded-c2beace77cb8) 
+![animation](https://github.com/Lylucyy/Lylucyy/assets/133783569/e55efa64-c61a-4329-909d-33f2678a0d45)
