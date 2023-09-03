@@ -2,6 +2,8 @@
 
 Meu nome é Raissa Karpinski
 
+!!Pronomes:Ela/Ele/Elu!!
+
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos
@@ -9,4 +11,4 @@ Meu nome é Raissa Karpinski
 ### Para entrar em contato comigo!! 💌
 fagundes.raissa@escola.pr.gov.br
 
-![](https://media.tenor.com/lb9hGWB5XXQAAAAC/happy-mochi.gif) 
+![](![Design sem nome](https://github.com/Lylucyy/Lylucyy/assets/133783569/b802ce18-97d2-4a96-b38e-055ee556dc73)) 
