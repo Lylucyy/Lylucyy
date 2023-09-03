@@ -2,7 +2,7 @@
 
 Meu nome é Raissa Karpinski
 
-!!Pronomes:Ela/Ele/Elu!!
+❗ Pronomes:Ela/Ele/Elu ❗
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem Javascript
